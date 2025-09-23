@@ -16,7 +16,7 @@
 <a href="https://instagram.com/aryanp4ndey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creamemepied" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@creamemepied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="creamemepied" height="30" width="40" /></a>
   <a href="https://instagram.com/aryanp4ndey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="creamemepied" height="30" width="40" /></a>
-  <a href="https://instagram.com/aryanp4ndey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="creamemepied" height="30" width="40" /></a>
+  <a href="https://instagram.com/aryanp4ndey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedIn.svg" alt="creamemepied" height="30" width="40" /></a>
 </p>
 
 <h5 align="left">Support:</h5>
