@@ -42,7 +42,7 @@ Here are some of the technologies I work with:
 <p align="center">
   <strong>Tools:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,windsurf,cursor,chatgpt" />
   </a>
 </p>
 
