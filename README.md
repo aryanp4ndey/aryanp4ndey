@@ -15,6 +15,37 @@
 </div>
 
 <br>
+# 🛠️ My Tech Stack
+
+Here are some of the technologies I work with:
+
+<p align="center">
+  <strong>Frontend:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Backend:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Databases & Cloud:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Tools:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  </a>
+</p>
 
 <div align="center">
   <h3 align="center">Connect with me</h3>
