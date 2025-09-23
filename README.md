@@ -1,4 +1,15 @@
-always learning.
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Aryan Pandeya</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;JavaScript+Enthusiast;MERN+Stack+Explorer;Always%20Learning&center=true&width=500&height=50"></a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@018d36c1-341c-45d8-944e-95ce4b6bce0b"><img src="https://wakatime.com/badge/user/018d36c1-341c-45d8-944e-95ce4b6bce0b.svg" alt="Total time coded since Jan 23 2024" /></a>
+  <img src="https://komarev.com/ghpvc/?username=aks-20&label=Profile%20views&color=FF5733&style=flat-square" alt="Profile views" />
+</p>
+
+<br
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
