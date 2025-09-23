@@ -23,7 +23,7 @@ Here are some of the technologies I work with:
 <p align="center">
   <strong>Frontend & Mobile:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,angular,flutter,swift" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,angular,flutter,swift" />
   </a>
 </p>
 
