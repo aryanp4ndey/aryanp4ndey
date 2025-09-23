@@ -21,3 +21,6 @@
 <p><a href="https://www.buymeacoffee.com/creamemepied1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="creamemepied" /></a></p><br><br>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
