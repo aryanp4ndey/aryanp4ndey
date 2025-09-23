@@ -47,7 +47,7 @@ Here are some of the technologies I work with:
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,pr,ai,ps,ae" />
   </a>
   <br><br>
-  <strong>AI buddies:</strong><br>
+  <strong>AI Tools:</strong><br>
   <img src="https://img.shields.io/badge/Windsurf-2E3440?style=for-the-badge&logo=wind&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
