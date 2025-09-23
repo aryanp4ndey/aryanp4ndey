@@ -54,7 +54,7 @@ Here are some of the technologies I work with:
     <a href="https://instagram.com/aryanp4ndey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanp4ndey's Instagram" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@creamemepied" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aryan's YouTube" height="30" width="40" /></a>
     <a href="https://twitter.com/YOUR_USERNAME" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanp4ndey's Twitter" height="30" width="40" /></a>
-    <a href="https://your-website.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="aryanp4ndey's Website" height="30" width="40" /></a>
+    <a href="https://your-website.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="aryanp4ndey's Website" height="30" width="40" /></a>
   </p>
 </div>
 
