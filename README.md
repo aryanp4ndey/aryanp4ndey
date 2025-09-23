@@ -37,14 +37,14 @@ Here are some of the technologies I work with:
 <p align="center">
   <strong>Databases & Cloud:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker,supabase,azure" />
   </a>
 </p>
 
 <p align="center">
   <strong>Tools:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,pr,ai,ps" />
   </a>
   <br><br>
   <!-- Custom icons for Windsurf, Cursor, ChatGPT -->
