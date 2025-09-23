@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Crafting+Scalable+Full+Stack+Solutions;Solving+Real-World+Problems+with+Code;Exploring+the+Intersection+of+Tech+&+Business;Always+Learning&center=true&width=500&height=50">
   </a>
 </p>
@@ -14,21 +14,23 @@
   <img src="https://komarev.com/ghpvc/?username=aryanp4ndey&label=Profile%20Views&color=FF5733&style=flat-square" alt="Profile views" />
 </div>
 
+---
+
 ### 🛠️ My Tech Stack
 
 Here are some of the technologies I work with:
 
 <p align="center">
-  <strong>Frontend:</strong><br>
+  <strong>Frontend & Mobile:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,angular" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,angular,ionic,flutter,swift" />
   </a>
 </p>
 
 <p align="center">
   <strong>Backend:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,cs,dotnet" />
   </a>
 </p>
 
@@ -42,8 +44,13 @@ Here are some of the technologies I work with:
 <p align="center">
   <strong>Tools:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,windsurf,cursor,chatgpt" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" />
   </a>
+  <br><br>
+  <!-- Custom icons for Windsurf, Cursor, ChatGPT -->
+  <img src="https://img.shields.io/badge/Windsurf-2E3440?style=for-the-badge&logo=wind&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
 </p>
 
 ---
@@ -54,8 +61,8 @@ Here are some of the technologies I work with:
     <a href="https://instagram.com/aryanp4ndey" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="aryanp4ndey's Instagram" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@creamemepied" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aryan's YouTube" height="30" width="40" /></a>
     <a href="https://twitter.com/YOUR_USERNAME" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="aryanp4ndey's Twitter" height="30" width="40" /></a>
-    <a href="https://your-website.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="aryanp4ndey's Website" height="30" width="40" /></a>
-        <a href="https://your-website.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=Website" alt="aryanp4ndey's Website" height="30" width="40" /></a>
+    <a href="mailto:aryanp4ndey@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="aryanp4ndey's Gmail" height="30" width="40" /></a>
+    <a href="https://your-website.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress" alt="aryanp4ndey's Website" height="30" width="40" /></a>
   </p>
 </div>
 
@@ -67,5 +74,5 @@ Here are some of the technologies I work with:
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="decorative footer" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="decorative footer" />
 </p>
