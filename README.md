@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=aryanp4ndey&label=Profile%20Views&color=FF5733&style=flat-square" alt="Profile views" />
 </div>
 
-<br>
 ### 🛠️ My Tech Stack
 
 Here are some of the technologies I work with:
@@ -46,6 +45,8 @@ Here are some of the technologies I work with:
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
   </a>
 </p>
+
+---
 
 <div align="center">
   <h3 align="center">Connect with me</h3>
