@@ -18,12 +18,33 @@
 
 <div align="center">
   <h3 align="center">Connect with me</h3>
-  <p align="center">
-    <a href="https://instagram.com/aryanp4ndey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanp4ndey's Instagram" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/@creamemepied" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aryan's YouTube" height="30" width="40" /></a>
-    <a href="https://twitter.com/YOUR_USERNAME" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanp4ndey's Twitter" height="30" width="40" /></a>
-    <a href="https://your-website.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="aryanp4ndey's Website" height="30" width="40" /></a>
-  </p>
+<p align="center">
+  <a href="https://instagram.com/aryanp4ndey" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanp4ndey's Instagram" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.youtube.com/@creamemepied" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aryan's YouTube" height="30" width="40" />
+  </a>
+  
+  <a href="https://twitter.com/YOUR_USERNAME" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanp4ndey's Twitter" height="30" width="40" />
+  </a>
+  
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Aryan Pandey's LinkedIn" height="30" width="40" />
+  </a>
+  
+  <a href="https://your-website.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="aryanp4ndey's Website" height="30" width="40" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://www.buymeacoffee.com/creamemepied1" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
 </div>
 
 <div align="center">
