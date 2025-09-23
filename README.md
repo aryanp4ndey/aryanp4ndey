@@ -21,7 +21,7 @@ Here are some of the technologies I work with:
 <p align="center">
   <strong>Frontend:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,angular" />
   </a>
 </p>
 
