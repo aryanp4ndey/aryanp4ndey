@@ -1,30 +1,38 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Aryan Pandey</h1>
+<h1 align="center">Hi there, I'm Aryan Pandey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Business+Enthusiast;Building+Something+Meaningful;Always%20Learning&center=true&width=500&height=50"></a>
+  A passionate Full Stack Developer and business enthusiast, dedicated to building meaningful applications.
 </p>
 
 <p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=aryanp4ndey&label=Profile%20views&color=FF5733&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Crafting+Scalable+Full+Stack+Solutions;Solving+Real-World+Problems+with+Code;Exploring+the+Intersection+of+Tech+&+Business;Always+Learning&center=true&width=500&height=50">
+  </a>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryanp4ndey&label=Profile%20Views&color=FF5733&style=flat-square" alt="Profile views" />
+</div>
 
 <br>
 
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://instagram.com/aryanp4ndey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creamemepied" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@creamemepied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="creamemepied" height="30" width="40" /></a>
-  <a href="https://instagram.com/aryanp4ndey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="creamemepied" height="30" width="40" /></a>
-  <a href="https://instagram.com/aryanp4ndey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="creamemepied" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <h3 align="center">Connect with me</h3>
+  <p align="center">
+    <a href="https://instagram.com/aryanp4ndey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanp4ndey's Instagram" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@creamemepied" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aryan's YouTube" height="30" width="40" /></a>
+    <a href="https://twitter.com/YOUR_USERNAME" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanp4ndey's Twitter" height="30" width="40" /></a>
+    <a href="https://your-website.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="aryanp4ndey's Website" height="30" width="40" /></a>
+  </p>
+</div>
 
-</br>
-<h5 align="left">Support:</h5>
-<p><a href="https://www.buymeacoffee.com/creamemepied1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="creamemepied" /></a></p><br><br>
-
+<div align="center">
+  <h3>Support My Work</h3>
+  <a href="https://www.buymeacoffee.com/creamemepied1" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="decorative footer" />
 </p>
