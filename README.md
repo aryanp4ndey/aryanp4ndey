@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@018d36c1-341c-45d8-944e-95ce4b6bce0b"><img src="https://wakatime.com/badge/user/018d36c1-341c-45d8-944e-95ce4b6bce0b.svg" alt="Total time coded since Jan 23 2024" /></a>
-  <img src="https://komarev.com/ghpvc/?username=aks-20&label=Profile%20views&color=FF5733&style=flat-square" alt="Profile views" />
+
+  <img src="https://komarev.com/ghpvc/?username=aryanp4ndey&label=Profile%20views&color=FF5733&style=flat-square" alt="Profile views" />
 </p>
 
 <br
