@@ -44,7 +44,7 @@ Here are some of the technologies I work with:
 <p align="center">
   <strong>Tools:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,pr,ai,ps,powershell" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,pr,ai,ps,ae" />
   </a>
   <br><br>
   <strong>AI buddies:</strong><br>
