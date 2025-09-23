@@ -15,7 +15,7 @@
 </div>
 
 <br>
-# 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 
 Here are some of the technologies I work with:
 
