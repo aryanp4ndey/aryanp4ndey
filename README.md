@@ -47,10 +47,13 @@ Here are some of the technologies I work with:
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,pr,ai,ps,powershell" />
   </a>
   <br><br>
-  <!-- Custom icons for Windsurf, Cursor, ChatGPT -->
+  <strong>AI buddies:</strong><br>
   <img src="https://img.shields.io/badge/Windsurf-2E3440?style=for-the-badge&logo=wind&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Gemini-8D88F2?style=for-the-badge&logo=google&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/V0-000000?style=for-the-badge&logoColor=white" height="30"/>
 </p>
 
 ---
