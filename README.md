@@ -63,7 +63,7 @@ Here are some of the technologies I work with:
   <p align="center">
     <a href="https://instagram.com/aryanp4ndey" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="aryanp4ndey's Instagram" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@aryanp4ndey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aryan's YouTube" height="30" width="40" /></a>
-    <a href="https://x.com./aryanp4ndey" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="aryanp4ndey's Twitter" height="30" width="40" /></a>
+    <a href="https://x.com/aryanp4ndey" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="aryanp4ndey's Twitter" height="30" width="40" /></a>
     <a href="mailto:aryanp4ndey@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="aryanp4ndey's Gmail" height="30" width="40" /></a>
     <a href="https://aryanp4ndey.netlify.app" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress" alt="aryanp4ndey's Website" height="30" width="40" /></a>
         <a href="https://www.linkedin.com/in/aryan-pandey-219121305/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="aryanp4ndey's Website" height="30" width="40" /></a>
