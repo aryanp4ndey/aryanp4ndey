@@ -37,23 +37,18 @@
   <a href="https://instagram.com/aryanp4ndey" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=instagram" height="32" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@aryanp4ndey" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="32" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/aryanp4ndey" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=twitter" height="32" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:aryanp4ndey@gmail.com" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=gmail" height="32" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://aryanp4ndey.netlify.app" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=wordpress" height="32" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aryan-pandey-219121305/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
   </a>
