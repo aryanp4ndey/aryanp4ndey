@@ -27,63 +27,62 @@
 <h3 align="center">Tech I Work With</h3>
 
 <p align="center">
-  <code>React</code> •
-  <code>Next.js</code> •
-  <code>TypeScript</code> •
-  <code>Tailwind</code>
+  <strong>Frontend</strong><br/>
+  <code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind</code>
 </p>
 
 <p align="center">
-  <code>Node.js</code> •
-  <code>Express</code> •
-  <code>Python</code> •
-  <code>.NET</code>
+  <strong>Backend</strong><br/>
+  <code>Node.js</code> • <code>Express</code> • <code>Python</code> • <code>.NET</code>
 </p>
 
 <p align="center">
-  <code>PostgreSQL</code> •
-  <code>MongoDB</code> •
-  <code>MySQL</code>
+  <strong>Databases</strong><br/>
+  <code>PostgreSQL</code> • <code>MongoDB</code> • <code>MySQL</code>
 </p>
 
 <p align="center">
-  <code>AWS</code> •
-  <code>Docker</code> •
-  <code>Firebase</code>
+  <strong>Cloud & Infra</strong><br/>
+  <code>AWS</code> • <code>Docker</code> • <code>Firebase</code>
 </p>
+
 
 <br/><br/>
 
 <h3 align="center">Connect</h3>
 
 <p align="center">
-  <a href="https://instagram.com/aryanp4ndey" target="_blank" rel="noreferrer">
+  <a href="https://instagram.com/aryanp4ndey" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=instagram" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@aryanp4ndey" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/@aryanp4ndey" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/aryanp4ndey" target="_blank" rel="noreferrer">
+  <a href="https://x.com/aryanp4ndey" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=twitter" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:aryanp4ndey@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:aryanp4ndey@gmail.com" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=gmail" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://aryanp4ndey.netlify.app" target="_blank" rel="noreferrer">
+  <a href="https://aryanp4ndey.netlify.app" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=wordpress" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aryan-pandey-219121305/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/aryan-pandey-219121305/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
   </a>
 </p>
+
 
 <br/><br/>
 
 <p align="center">
   <em>"I build. I ship. I improve."</em>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="footer" />
 </p>
