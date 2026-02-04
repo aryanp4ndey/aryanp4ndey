@@ -24,26 +24,8 @@
 
 <br/><br/>
 
-<h3 align="center">Tech I Work With</h3>
-
 <p align="center">
-  <strong>Frontend</strong><br/>
-  <code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind</code>
-</p>
-
-<p align="center">
-  <strong>Backend</strong><br/>
-  <code>Node.js</code> • <code>Express</code> • <code>Python</code> • <code>.NET</code>
-</p>
-
-<p align="center">
-  <strong>Databases</strong><br/>
-  <code>PostgreSQL</code> • <code>MongoDB</code> • <code>MySQL</code>
-</p>
-
-<p align="center">
-  <strong>Cloud & Infra</strong><br/>
-  <code>AWS</code> • <code>Docker</code> • <code>Firebase</code>
+  <img src="aryan.png" alt="aryan" width="100%" />
 </p>
 
 
