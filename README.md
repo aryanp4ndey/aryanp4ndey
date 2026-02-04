@@ -21,8 +21,8 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,flutter" alt="Frontend" /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,cs,mysql,mongodb,firebase" alt="Backend & DB" /><br />
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,figma,postman" alt="Tools & Cloud" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,cs,mysql" alt="Backend & DB" /><br />
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,figma" alt="Tools & Cloud" />
 </p>
 
 <br />
