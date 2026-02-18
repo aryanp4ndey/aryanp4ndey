@@ -29,7 +29,7 @@
 
 <h3 align="center">Connect</h3>
 <p align="center">
-<a href="https://instagram.com/aryanp4ndey"><img src="https://skillicons.dev/icons?i=instagram" height="32" /></a>&nbsp;<a href="https://www.youtube.com/@aryanp4ndey"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="32" /></a>&nbsp;<a href="https://x.com/aryanp4ndey"><img src="https://skillicons.dev/icons?i=twitter" height="32" /></a>&nbsp;<a href="mailto:aryanp4ndey@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>&nbsp;<a href="https://aryanp4ndey.netlify.app"><img src="https://skillicons.dev/icons?i=wordpress" height="32" /></a>&nbsp;<a href="https://www.linkedin.com/in/aryan-pandey-219121305/"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>
+<a href="https://instagram.com/aryanp4ndey"><img src="https://skillicons.dev/icons?i=instagram" height="32" /></a>&nbsp;<a href="https://www.youtube.com/@aryanp4ndey"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="32" /></a>&nbsp;<a href="https://x.com/aryanp4ndey"><img src="https://skillicons.dev/icons?i=twitter" height="32" /></a>&nbsp;<a href="mailto:aryanp4ndey@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>&nbsp;<a href="https://aryan.buntox.com"><img src="https://skillicons.dev/icons?i=wordpress" height="32" /></a>&nbsp;<a href="https://www.linkedin.com/in/aryan-pandey-219121305/"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>
 </p>
 
 <br />
